@@ -36,8 +36,8 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-API_TOKEN = "6278107070:AAEdRgQlNet-DFRmp-8ZzH6EgzSKSrBNgbA"
-OPENAI_API_KEY = "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"
+API_TOKEN = ""
+OPENAI_API_KEY = ""
 
 openai.api_key = OPENAI_API_KEY
 
